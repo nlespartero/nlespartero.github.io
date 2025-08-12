@@ -1,0 +1,140 @@
+body{
+    background-color: #16365d;
+}
+
+
+h1{
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+h3{
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 250, 0);   
+}
+
+h4{
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow; 
+    text-decoration: underline;     
+}
+
+.Par1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Par2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.Par3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: end;
+    text-indent: 5%;
+}
+
+.Par4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.Par5{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;   
+    font-style: italic; 
+}
+
+.Par6{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;   
+    background-color: red;
+}
+
+.Extra{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.listcolor{
+    color: white;
+}
+.list1{
+    font-style: italic;
+    color: red;
+}
+
+.list2{
+    color: blueviolet;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.span1{
+    color: red;
+    text-decoration-line: underline;
+}
+
+.span2{
+    color: yellow;
+    text-decoration: underline;
+}
+
+.span3{
+    color: blue;
+}
+
+.span4{
+    color: rgb(0, 250, 0); 
+    font-weight: bold;  
+}
+
+.span5{
+    color: blue;
+    font-style: italic;
+}
+
+.span6{
+    color: red;
+    font-weight: bold;
+}
+
+.span7{
+    color: black;
+    background-color: rgb(0, 250, 0);
+    font-weight: bold;
+}
+
+.span8{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.span9{
+    font-size: 30px;
+}
+
+.span10{
+    background-color: black;
+}
+
+.black{
+    background-color: black;
+}
