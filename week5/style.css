@@ -1,0 +1,48 @@
+.card {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h2, p{
+    margin: 0;
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+.card-header{
+    display: flex;
+}
+
+.card-header{
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.Main-box{
+    display: flex;
+    gap: 10px;
+}
+
+.btn{
+    font-style: italic;
+    color: white;
+    border: none;
+    background-color: rgb(128, 0, 128);
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background: rgb(255, 255, 255);
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
+
+.card:hover{
+    background: #833AB4;
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    color: white;
+}
