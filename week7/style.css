@@ -1,0 +1,58 @@
+.navbar .hover-btn {
+  transition: all 0.3s ease;
+  border-radius: 20px;
+  padding: 6px 14px;
+}
+.navbar .hover-btn:hover {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.plane{
+    color: #fff;
+}
+
+.plane1{
+    color: #020202;
+}
+
+.header{
+    display: flex;
+    background: #212529;
+    height: 50px;
+    color: white;
+    padding: 10px;
+    justify-content: space-between;
+}
+.right-header{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.btn{
+    margin:none;
+    background-color: #212529;   
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+}
+
+.btn:hover{
+    background-color: #198753;
+    padding: 15px;
+    align-items: center;
+}
