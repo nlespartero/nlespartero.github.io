@@ -1,2 +1,2 @@
-# tourism-sanjose-g6-2025.io
+# nlespartero.io
 For educational purposes 
