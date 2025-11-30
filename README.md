@@ -1,2 +1,2 @@
-# nlespartero.io
+# nlespartero.github.io
 For educational purposes 
